@@ -1,0 +1,23 @@
+h1{text-align: center;
+color:lightcoral;}
+h3{font-family:lobster;
+text-align: center;
+color: lightcoral;
+}
+h4{color:lightcoral;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.image-border{border-color:aqua;
+    border-width: 5px;
+    border-radius: 10%;
+    border-style:groove;
+    width: 400px;
+}
+img{display: block;
+    margin: auto;}
+
+.name{color:seagreen;
+text-align: center;
+font-family:lobster;}
+.info{text-align: center;}
+li{color:rebeccapurple;}
+body{background-color:bisque;}
