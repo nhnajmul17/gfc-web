@@ -44,12 +44,18 @@ img{display: block;
 }
 
 .name {
+    
     color:seagreen;
     text-align: center;
+    text-decoration: none;
     font-family:lobster;
 }
+
 .info {
     text-align: center;
+}
+#info-link{
+    text-decoration: none;
 }
 li {
     color:rebeccapurple;
