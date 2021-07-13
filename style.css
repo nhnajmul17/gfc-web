@@ -67,8 +67,9 @@ img{display: block;
 }
 .members{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(4,1fr);
     grid-row-gap: 50px;
+    grid-column-gap: 50px;
 }
 .member{
     display: flex;
